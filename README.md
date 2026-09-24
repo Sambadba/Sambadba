@@ -8,31 +8,31 @@ My work connects technical execution with business strategy. I design secure, re
 
 ## Core Expertise
 
-* Cloud, DevOps, SRE, and platform engineering
-* Infrastructure automation and CI/CD
-* Business intelligence and data analytics
-* Python, SQL, R, Excel, Power BI, and Tableau
-* Database design, development, and administration
-* Predictive modeling, forecasting, and optimization
-* Financial planning and analysis
-* Risk analysis and executive KPI reporting
 * Applied artificial intelligence and machine learning
+* Business intelligence and data analytics
+* Cloud, DevOps, SRE, and platform engineering
+* Database design, development, and administration
 * End-to-end project delivery and stakeholder communication
+* Financial planning and analysis
+* Infrastructure automation and CI/CD
+* Python, SQL, R, Excel, Power BI, and Tableau
+* Predictive modeling, forecasting, and optimization
+* Risk analysis and executive KPI reporting
 
 ## Professional Focus
 
 I am particularly interested in opportunities at the intersection of:
 
-* Enterprise technology and cloud transformation
-* Business intelligence and decision support
-* Financial strategy, FP&A, and valuation
 * Applied AI, machine learning, and predictive analytics
+* Business intelligence and decision support
 * Data governance and responsible AI
+* Enterprise technology and cloud transformation
+* Financial strategy, FP&A, and valuation
 * Platform scalability, reliability, and operational resilience
 
 ## Featured Work
 
-My repositories showcase selected projects in data analysis, business intelligence, financial modeling, forecasting, cloud automation, database development, and applied AI.
+My repositories showcase selected projects in devOps, data analysis, business intelligence, financial modeling, forecasting, cloud automation, database development, and applied AI.
 
 Each project is designed to demonstrate structured problem-solving, transparent methodology, technical execution, and clear communication of business impact.
 
