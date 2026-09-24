@@ -1,6 +1,6 @@
 # Hello, I am Matthias Mbarga, MBA.
 
-### Business, Technology, Analytics & Applied AI Leader
+### Business Intelligence, Analytics, Technology & Applied AI Leader
 
 Welcome to my GitHub. I am a multidisciplinary technology and business analytics professional with 10+ years of experience spanning business intelligence, cloud engineering, DevOps, site reliability engineering, platform operations, automation, enterprise operations and transformation.
 
